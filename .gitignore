@@ -1,0 +1,5 @@
+.idea
+schema_mysql2hive/hive_schema/*
+schema_mysql2hive/yaml/*
+!schema_mysql2hive/hive_schema/.gitkeep
+!schema_mysql2hive/yaml/.gitkeep
